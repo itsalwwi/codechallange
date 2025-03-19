@@ -62,13 +62,13 @@ export default function ContactMePage() {
           {/* Ikon Sosial Media */}
           <div className="mt-6 flex justify-center gap-6 text-2xl">
             <a
-              href="mailto:your-email@example.com"
+              href="mailto:alwisusilo@gmail.com"
               className="text-gray-400 hover:text-yellow-400 transition"
             >
               <FaEnvelope />
             </a>
             <a
-              href="https://linkedin.com/in/yourprofile"
+              href="https://linkedin.com/in/alwisusilo"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-yellow-400 transition"
@@ -76,7 +76,7 @@ export default function ContactMePage() {
               <FaLinkedin />
             </a>
             <a
-              href="https://github.com/yourgithub"
+              href="https://github.com/itsalwwi"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-yellow-400 transition"
