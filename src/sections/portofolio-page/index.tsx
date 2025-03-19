@@ -1,9 +1,9 @@
 import Image from "next/image";
 export default function PortofolioPage() {
   return (
-    <section className="w-screen min-h-[800px] flex justify-center px-6 md:px-0">
+    <section className="w-screen max-h-[1100px] flex justify-center p-15 md:px-0">
       {/* Wrapper Utama */}
-      <div className="w-full max-w-[1110px] h-auto flex flex-col pt-20 items-center text-center gap-6 md:gap-10">
+      <div className="w-full max-w-[1110px] h-auto flex flex-col items-center text-center gap-6 md:gap-10">
         {/* Wrapper Text */}
         <div className="max-w-[469px] flex flex-col items-center">
           <h2 className="text-[32px] md:text-[42px] font-bold">
