@@ -13,7 +13,7 @@ export default function HeroSection() {
 
           {/* nama dan deskripsi */}
           <div className="space-y-2">
-            <div className="text-[42px] leading-[64px] font-bold">
+            <div className="text-[42px] text-white leading-[64px] font-bold">
               I'm Anderson Coper
             </div>
             <p className="text-[16px] drop-shadow-md leading-[27px] text-[#6B7280]">

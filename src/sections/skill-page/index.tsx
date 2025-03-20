@@ -8,7 +8,8 @@ export default function MySkillPage() {
         {/* Wrapper Text */}
         <div className="w-full max-w-[461px] text-center md:text-left">
           <h2 className="text-[32px] md:text-[42px] font-bold">
-            <span>My</span> <span className="text-[#FACC15]">Skill</span>
+            <span className=" text-white">My</span>{" "}
+            <span className="text-[#FACC15]">Skill</span>
           </h2>
           <p className="text-[14px] md:text-[16px] drop-shadow-md leading-[24px] md:leading-[27px] text-[#6B7280] mt-2">
             I specialize in building modern, scalable web applications with

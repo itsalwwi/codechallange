@@ -7,7 +7,7 @@ export default function PortofolioPage() {
         {/* Wrapper Text */}
         <div className="max-w-[469px] flex flex-col items-center">
           <h2 className="text-[32px] md:text-[42px] font-bold">
-            <span>Personal</span>{" "}
+            <span className=" text-white">Personal</span>{" "}
             <span className="text-[#FACC15]">Project</span>
           </h2>
           <p className="text-[14px] md:text-[16px] text-center drop-shadow-md leading-[24px] md:leading-[27px] text-[#6B7280] mt-2">
