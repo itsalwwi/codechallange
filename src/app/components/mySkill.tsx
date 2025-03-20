@@ -1,5 +1,5 @@
 import MySkillPage from "@/sections/skill-page";
 
-export default function () {
+export default function MySkill () {
   return <MySkillPage />;
 }

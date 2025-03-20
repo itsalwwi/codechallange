@@ -25,7 +25,8 @@ export default function AboutMePage() {
           {/* Title */}
           <div>
             <h2 className="text-[32px] md:text-[42px] font-bold">
-              <span>About</span> <span className="text-[#FACC15]">Me</span>
+              <span className=" text-white">About</span>{" "}
+              <span className="text-[#FACC15]">Me</span>
             </h2>
           </div>
 

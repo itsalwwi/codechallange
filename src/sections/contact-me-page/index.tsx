@@ -7,7 +7,7 @@ export default function ContactMePage() {
       <div className="w-full items-center gap-10 flex flex-col">
         <div className="items-center text-center flex flex-col">
           <h2 className="">
-            <span className="text-[32px] md:text-[42px] font-bold">
+            <span className="text-[32px] text-white md:text-[42px] font-bold">
               Contact{" "}
             </span>
             <span className="text-[32px] md:text-[42px] font-bold text-yellow-400">

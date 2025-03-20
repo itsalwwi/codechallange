@@ -1,5 +1,5 @@
 import TestimoniPage from "@/sections/testimoni-page";
 
-export default function Testimonial() {
+export default function Testimoni() {
   return <TestimoniPage />;
 }

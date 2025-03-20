@@ -8,7 +8,8 @@ export default function TestimonialPage() {
         {/* Header */}
         <div className="w-full text-center items-center">
           <h2 className="text-[32px] md:text-[42px] font-bold">
-            <span>Trusted</span> <span className="text-[#FACC15]">Reviews</span>
+            <span className=" text-white">Trusted</span>{" "}
+            <span className="text-[#FACC15]">Reviews</span>
           </h2>
           <p className="text-[14px] md:text-[16px] drop-shadow-md leading-[24px] md:leading-[27px] text-[#6B7280] mt-2">
             <strong>Honest feedback</strong> from clients and peers,
